@@ -98,7 +98,8 @@ npm start # or yarn start
 ---
 
 ## 📷 Preview
-![Netflix Clone UI](https://github.com/user-attachments/assets/cbe05339-4fcf-440d-ac19-c67b6393a6d2)
+![image](https://github.com/user-attachments/assets/96d9475e-de87-4095-a69a-4e38fdd62d1d) | ![image](https://github.com/user-attachments/assets/dbddf9f1-9415-4b9a-842b-2fe71fb28df2)
+
 
 ---
 
