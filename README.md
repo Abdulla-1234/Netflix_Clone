@@ -98,8 +98,11 @@ npm start # or yarn start
 ---
 
 ## 📷 Preview
-![image](https://github.com/user-attachments/assets/96d9475e-de87-4095-a69a-4e38fdd62d1d) | ![image](https://github.com/user-attachments/assets/dbddf9f1-9415-4b9a-842b-2fe71fb28df2)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/96d9475e-de87-4095-a69a-4e38fdd62d1d" width="45%" />
+  <img src="https://github.com/user-attachments/assets/dbddf9f1-9415-4b9a-842b-2fe71fb28df2" width="45%" />
+</p>
 
 ---
 
