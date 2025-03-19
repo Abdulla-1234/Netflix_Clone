@@ -113,18 +113,12 @@ Contributions are welcome! If you'd like to add features, fix bugs, or improve d
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## 📬 Contact
 
 For any queries, reach out at:  
-📧 Email: your-email@example.com  
-🔗 [GitHub](https://github.com/your-username)  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
+📧 Email: mohammadabdulla20march@gmail.com  
+🔗 [GitHub](https://github.com/Abdulla-1234)  
+🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohammad-abdulla-doodakula-8a3307258/))  
 
 💖 **Enjoy streaming with your Netflix Clone!** 🎥 🍿
 
