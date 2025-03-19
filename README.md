@@ -118,7 +118,7 @@ Contributions are welcome! If you'd like to add features, fix bugs, or improve d
 For any queries, reach out at:  
 📧 Email: mohammadabdulla20march@gmail.com  
 🔗 [GitHub](https://github.com/Abdulla-1234)  
-🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohammad-abdulla-doodakula-8a3307258/))  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-abdulla-doodakula-8a3307258/)  
 
 💖 **Enjoy streaming with your Netflix Clone!** 🎥 🍿
 
