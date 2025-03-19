@@ -1,11 +1,5 @@
 # 🎬 Netflix Clone
 
-![Netflix Clone](https://img.shields.io/badge/Netflix-Clone-red?style=for-the-badge&logo=netflix)
-![TypeScript](https://img.shields.io/badge/TypeScript-95.5%25-blue?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-2.9%25-yellow?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-1.1%25-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-0.5%25-blue?style=for-the-badge&logo=css3)
-
 A fully responsive **Netflix Clone** built with **Vite, TypeScript, React, and Tailwind CSS**, providing an immersive streaming experience. This project replicates the Netflix UI and core functionalities such as browsing movies, searching, and managing a user’s personal watchlist.
 
 ---
