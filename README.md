@@ -100,8 +100,8 @@ npm start # or yarn start
 ## 📷 Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/96d9475e-de87-4095-a69a-4e38fdd62d1d" width="70%" style="margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/dbddf9f1-9415-4b9a-842b-2fe71fb28df2" width="30%" />
+  <img src="https://github.com/user-attachments/assets/96d9475e-de87-4095-a69a-4e38fdd62d1d" width="50%" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/dbddf9f1-9415-4b9a-842b-2fe71fb28df2" width="40%" />
 </p>
 
 
