@@ -1,4 +1,7 @@
-![image](https://github.com/user-attachments/assets/7677297a-3c8d-4982-89f1-b117100071c9)# 🎬 Netflix Clone
+# 🎬 Netflix Clone
+
+![Netflix Clone UI](https://github.com/user-attachments/assets/cbe05339-4fcf-440d-ac19-c67b6393a6d2)
+
 
 A fully responsive **Netflix Clone** built with **Vite, TypeScript, React, and Tailwind CSS**, providing an immersive streaming experience. This project replicates the Netflix UI and core functionalities such as browsing movies, searching, and managing a user’s personal watchlist.
 
