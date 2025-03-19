@@ -63,7 +63,7 @@ cd netflix-clone
 
 ### 2️⃣ Install Dependencies
 ```sh
-yarn install  # or npm install
+npm install # or yarn install 
 ```
 
 ### 3️⃣ Start the Development Server
